@@ -1,0 +1,29 @@
+{
+    "name": "abror-net/captcha",
+    "description": "This package is captcha based on cool-php-captcha 0.3.1. It provides simple call usage and validation.",
+    "keywords": ["framework", "laravel", "captcha", "cool-php-captcha", "security"],
+    "license": [
+        "MIT",
+        "GPL-3.0"
+    ],
+    "authors": [
+        {
+            "name": "Muhammad Muhlas Abror",
+            "email": "muhammadmuhlas3@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~5.0",
+        "illuminate/session": "~5.0"
+    },
+    "autoload": {
+        "classmap": [
+            "lib/"
+        ],
+        "psr-4": {
+            "AbrorNet\\Captcha\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
