@@ -1,5 +1,7 @@
 # Captcha
 
+[![Build Status](https://travis-ci.org/abror-net/captcha.svg?branch=master)](https://travis-ci.org/abror-net/captcha)
+
 Simple image captcha based on [cool-php-captcha v0.3.2][1].
 
 ## Installation
