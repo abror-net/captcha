@@ -4,8 +4,6 @@
 
 Simple image captcha based on [cool-php-captcha v0.3.2][1].
 
-This configuration below is tested and worked
-
 
 ## Installation
 
