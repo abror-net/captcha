@@ -4,6 +4,9 @@
 
 Simple image captcha based on [cool-php-captcha v0.3.2][1].
 
+This configuration below is tested and worked
+
+
 ## Installation
 
 Firstly, you need to add the package to the `require` attribute of your `composer.json` file:
